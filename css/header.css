@@ -2,7 +2,7 @@
 
 .header {
   width: 100%;
-  /* max-width: 1600px; */
+  max-width: 1600px;
   height: 0 auto;
 }
 .header_nav-top {
