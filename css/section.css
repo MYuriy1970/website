@@ -1,0 +1,66 @@
+.second_screen {
+  width: 994px;
+  height: 433px;
+  display: flex;
+  margin: 127px 303px;
+}
+
+.second_screen img {
+  margin-right: 30px;
+}
+
+.second_screen-text1 {
+  color: #000;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.second_screen-text2 {
+  color: var(--Light-black, #101010);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.16px;
+  margin-bottom: 195px;
+}
+
+.second_screen-text3{
+	position: relative;
+}
+
+.second_screen-text3  a{
+  display: flex;
+  color: #000;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+#text3{
+  margin-right: 5px;
+}
+
+.second_screen-text3 a {
+  text-decoration: none;
+}
+
+.second_screen-text3 img {
+  width: 15.578px;
+}
+
+.second_screen-text3 a:hover {
+  color: blue;
+}
+
+.second_screen-text3 a:active {
+  top: 2px;
+}
