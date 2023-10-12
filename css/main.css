@@ -9,6 +9,7 @@ body {
 
 .wrapper {
   width: 1600px;
+  height: 6400px;
   display: flex;
   flex-direction: column;
   align-items: center;
