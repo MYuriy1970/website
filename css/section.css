@@ -292,7 +292,7 @@
 }
 
 .office_text6 a {
-	position: relative;
+  position: relative;
   color: #000;
   font-family: Inter;
   font-size: 15.006px;
@@ -304,10 +304,10 @@
   padding-right: 10px;
 }
 
-.office_text6 a:hover{
-	color: blue;
+.office_text6 a:hover {
+  color: blue;
 }
 
-.office_text6 a:active{
-	top: 2px;
+.office_text6 a:active {
+  top: 2px;
 }
