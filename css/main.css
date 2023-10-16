@@ -26,6 +26,12 @@ section,
   align-items: center;
 }
 
+.horizontal_line {
+  width: 1400px;
+  height: 43px;
+  border-top: solid 1px #afafae;
+}
+
 .none {
   display: none;
 }
